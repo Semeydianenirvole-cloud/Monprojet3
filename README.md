@@ -7,6 +7,7 @@
 yon aplikasyon ki pemet ou poze yon seri kesyon epi afiche repons yo
 
 ### App Walk-though
+![mon projet](https://github.com/user-attachments/assets/3dac42ad-ee7f-428c-9734-f9dd2ff15089)
 
 
 
@@ -17,4 +18,5 @@ yon aplikasyon ki pemet ou poze yon seri kesyon epi afiche repons yo
 - [x ] User can enter and submit a Question and Answer through the 'Add Card Screen'
 - [x ] User will see the card they just created on the main screen when they press the 'Save Button'
 - [x ] Push your progress to GitHub!
+
 
